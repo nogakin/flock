@@ -1,15 +1,15 @@
-# Flock Simulation
+# Flock Simulation!
 
 Clojurescript implemtation of a flock behavior
 
 
-## Usage
+## Usage:
 See it in action
 
 To run it localy:
 > lein run
 
-To view
+To view:
 > goto http://localhost:3000/
 
 To see a live demo: 
